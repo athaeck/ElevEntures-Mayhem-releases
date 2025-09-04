@@ -4,7 +4,7 @@
 
 ## Informationen zum Projekt
 
-Um Zugang weitere Informationen zu diesem Projekt und zu seinem Quellcode zu erhalten besuchen Sie bitte dieses Repository: [Zur Dokumentation und Zugang zum Quellcode](https://github.com/athaeck/ElevEntures-Mayhem)
+Um Zugang zu weiteren Informationen zu diesem Projekt und zu seinem Quellcode zu erhalten besuche bitte dieses Repository: [Zur Dokumentation und Zugang zum Quellcode](https://github.com/athaeck/ElevEntures-Mayhem)
 
 ## Spielbare Prototypen
 
